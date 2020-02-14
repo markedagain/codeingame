@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/mkalender/.dotnet/store/|arch|/|tfm|",
+      "/home/mkalender/.nuget/packages"
+    ]
+  }
+}

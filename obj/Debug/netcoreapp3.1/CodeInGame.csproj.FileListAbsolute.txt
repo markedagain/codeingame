@@ -1,0 +1,11 @@
+/home/mkalender/Projects/Personal/CodeInGame/bin/Debug/netcoreapp3.1/CodeInGame
+/home/mkalender/Projects/Personal/CodeInGame/bin/Debug/netcoreapp3.1/CodeInGame.deps.json
+/home/mkalender/Projects/Personal/CodeInGame/bin/Debug/netcoreapp3.1/CodeInGame.runtimeconfig.json
+/home/mkalender/Projects/Personal/CodeInGame/bin/Debug/netcoreapp3.1/CodeInGame.runtimeconfig.dev.json
+/home/mkalender/Projects/Personal/CodeInGame/bin/Debug/netcoreapp3.1/CodeInGame.dll
+/home/mkalender/Projects/Personal/CodeInGame/bin/Debug/netcoreapp3.1/CodeInGame.pdb
+/home/mkalender/Projects/Personal/CodeInGame/obj/Debug/netcoreapp3.1/CodeInGame.csprojAssemblyReference.cache
+/home/mkalender/Projects/Personal/CodeInGame/obj/Debug/netcoreapp3.1/CodeInGame.AssemblyInfoInputs.cache
+/home/mkalender/Projects/Personal/CodeInGame/obj/Debug/netcoreapp3.1/CodeInGame.AssemblyInfo.cs
+/home/mkalender/Projects/Personal/CodeInGame/obj/Debug/netcoreapp3.1/CodeInGame.dll
+/home/mkalender/Projects/Personal/CodeInGame/obj/Debug/netcoreapp3.1/CodeInGame.pdb
